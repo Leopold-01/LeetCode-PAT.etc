@@ -70,7 +70,10 @@ int main()
         cout<<"找不到子串！"<<endl;
     }
 
-
+    ssss.push_back("c");//向字符串末尾添加c
+    //######字符串的操作！！！要用函数
+    strcpy(s1,s2);
+    strcmp(s1,s2);
     
     return 0;
 }
