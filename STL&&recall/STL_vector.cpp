@@ -74,7 +74,7 @@ int main()
     cout<<endl;
 
     //使用模板封装的打印函数
-    vector<string> v11={"template!","let's","go!"};
+    vector<string> v11={"template!","let's"," go!"};
     showvector(v11);
 
 
