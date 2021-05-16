@@ -40,7 +40,7 @@ public:
         }
 
         //链表中已翻转，题目要求用数组输出。
-        //存入数组中
+        //存入数组中1
         vector<int> arry;
         ListNode *temp=n->next;//n在头插法跑完之后，成为了一个指向第一个元素结点的指针
         while(temp!=NULL)
