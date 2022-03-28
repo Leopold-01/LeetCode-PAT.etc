@@ -16,8 +16,9 @@ void showVector(vector<T> v)
 //bool comp1(vector<T> v)  comp中两个参数只要是数即可,bool类型
 //即使是vector也只用int double float之类
 bool comp1(int a,int b)
-{
-    return a<b;//a<b返回 true  实现从小到大排序
+{ 
+    return a<b;//a<b返回 true  实现从小到大排序  git_test1
+    //git_test1 read11
 }
 bool comp2(int a,int b)
 {
